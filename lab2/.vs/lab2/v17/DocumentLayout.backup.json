@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnetlab\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\arraysum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\arraysum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\naturalnumbersum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\naturalnumbersum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\oddeven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\oddeven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|d:\\dotnetlab\\lab2\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{953FD013-9B98-479E-9C5C-F631965DF5A4}|lab2\\lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Naturalnumbersum.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\Naturalnumbersum.cs",
+              "RelativeDocumentMoniker": "lab2\\Naturalnumbersum.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\Naturalnumbersum.cs",
+              "RelativeToolTip": "lab2\\Naturalnumbersum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:18:50.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "leapyear.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\leapyear.cs",
+              "RelativeDocumentMoniker": "lab2\\leapyear.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\leapyear.cs",
+              "RelativeToolTip": "lab2\\leapyear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:18:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "largest.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\largest.cs",
+              "RelativeDocumentMoniker": "lab2\\largest.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\largest.cs",
+              "RelativeToolTip": "lab2\\largest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:18:26.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\Factorial.cs",
+              "RelativeDocumentMoniker": "lab2\\Factorial.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\Factorial.cs",
+              "RelativeToolTip": "lab2\\Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:17:44.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arraysum.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\Arraysum.cs",
+              "RelativeDocumentMoniker": "lab2\\Arraysum.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\Arraysum.cs",
+              "RelativeToolTip": "lab2\\Arraysum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:18:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OddEven.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\OddEven.cs",
+              "RelativeDocumentMoniker": "lab2\\OddEven.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\OddEven.cs",
+              "RelativeToolTip": "lab2\\OddEven.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:19:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prime.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\Prime.cs",
+              "RelativeDocumentMoniker": "lab2\\Prime.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\Prime.cs",
+              "RelativeToolTip": "lab2\\Prime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:19:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Swap.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\Swap.cs",
+              "RelativeDocumentMoniker": "lab2\\Swap.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\Swap.cs",
+              "RelativeToolTip": "lab2\\Swap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:19:24.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:13:26.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lab2",
+              "DocumentMoniker": "D:\\Dotnetlab\\lab2\\lab2\\lab2.csproj",
+              "RelativeDocumentMoniker": "lab2\\lab2.csproj",
+              "ToolTip": "D:\\Dotnetlab\\lab2\\lab2\\lab2.csproj",
+              "RelativeToolTip": "lab2\\lab2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T03:14:00.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
